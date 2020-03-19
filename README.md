@@ -5,5 +5,5 @@ Until recently, getting insights into how Venture Capitalist make investment dec
 This is a collection of venture capital deal memos that are in the public domain.
 
 ### Seed Stage
-* [Sequoia's Investment Memo on YouTube](http://milesgrimshaw.com/sequoia-investment-memo/)
+* [Sequoia's Investment Memo on YouTube](http://milesgrimshaw.com/sequoia-investment-memo/)  
 This is one of the first VC deal memo available in the public domain. Roelof Botha, a partner at Sequoia, recommends making a seed investment in Youtube.
